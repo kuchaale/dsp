@@ -47,6 +47,5 @@ Imports:
     stochvol,
     truncdist,
     vars,
-    wmtsa
 Suggests:
     spam64
